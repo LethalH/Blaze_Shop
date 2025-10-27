@@ -1,6 +1,6 @@
 # Blaze Shop
 
-Blaze Shop is an Android e-commerce application built using Kotlin and Jetpack Compose.  
+Blaze Shop is an Android women's e-commerce application built using Kotlin and Jetpack Compose.  
 It provides a smooth shopping experience with a clean UI, product browsing, and secure checkout.
 
 ---
@@ -34,8 +34,8 @@ It provides a smooth shopping experience with a clean UI, product browsing, and 
 
 **Harsh Verma**  
 B.Tech in Information Technology, Ajay Kumar Garg Engineering College (AKGEC)  
-📧 [harshverma@example.com](mailto:harshverma@example.com)  
-🔗 [GitHub](https://github.com/harshverma)
+📧 [harshvermaofficial0@gmail.com](mailto:harshvermaofficial0@gmail.com)  
+🔗 [GitHub](https://github.com/LethalH)
 
 ---
 
