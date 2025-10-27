@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "65158938781",
+    "project_id": "blaze-shop-9d653",
+    "storage_bucket": "blaze-shop-9d653.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65158938781:android:29020eb1715a681f655474",
+        "android_client_info": {
+          "package_name": "com.fuchsia.blazeshopuser"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjmqddixZUHoDrXG8vXNkH5O_0aSGJH2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
